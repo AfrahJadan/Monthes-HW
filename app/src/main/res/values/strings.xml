@@ -1,0 +1,19 @@
+<resources>
+    <!-->
+    For Editing the months I add the last two line in the String.xml
+    -->
+    <string name="app_name">listRecycle</string>
+    <string name="affirmation1">1-January</string>
+    <string name="affirmation2">2-February</string>
+    <string name="affirmation3">3-March</string>
+    <string name="affirmation4">4-April</string>
+    <string name="affirmation5">5-May</string>
+    <string name="affirmation6">6-June</string>
+    <string name="affirmation7">7-July</string>
+    <string name="affirmation8">8-August</string>
+    <string name="affirmation9">9-September</string>
+    <string name="affirmation10">10-October</string>
+    <string name="affirmation11">11-November</string>
+    <string name="affirmation12">12-December</string>
+</resources>
+
